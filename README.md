@@ -19,7 +19,7 @@ todo-list/
 
 ⚡ Getting Started
 1. Clone or download this repo
-git clone https://github.com/your-username/todo-list.git
+git clone (https://github.com/pranuuk/To-do-List)
 cd todo-list
 
 2. Open in Browser
